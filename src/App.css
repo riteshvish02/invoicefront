@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@media print {
+    .no-print {
+      display: none !important;
+    }
+  }
+  
+  .j{
+    display:  flex;
+    align-items: center;
+    justify-content: space-between;
+  }

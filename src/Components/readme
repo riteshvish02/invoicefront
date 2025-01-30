@@ -1,0 +1,12 @@
+<div class="totals-row">
+             <span>Subtotal:</span>
+                 <span>$${calculateSubtotal()}</span>
+               </div>
+              <div class="totals-row">
+                 <span>Tax (10%):</span>
+               <span>$${calculateTax()}</span>
+               </div>
+               <div class="totals-row">
+                 <span>Discount (5%):</span>
+               <span>$${calculateDiscount()}</span>
+               </div>
