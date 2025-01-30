@@ -2,7 +2,7 @@ import { useState } from 'react'
 
 import './App.css'
 import "tailwindcss"
-import Route from './Routes/route'
+import Route from './Routes/Route'
 
 function App() {
  
